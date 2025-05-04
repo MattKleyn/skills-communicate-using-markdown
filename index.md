@@ -12,3 +12,6 @@ my_list = [1,2,3]
 my.list.append[4]
 print(my_list)
 ```
+- [ ] new task1
+- [ ] new task2
+- [ ] new task3
